@@ -57,10 +57,8 @@ The archive submission includes the following files and directory:<br>
 ### Instructions<a name="instructions"></a>
 1. Run the `starbucks_u1up0ng.ipynb` file, and read results.
 
-
-
 #### Acknowledgements<a name="ack"></a>
 This project lives at [Udacity](https://classroom.udacity.com/nanodegrees/nd025-ent/parts/347da0f8-5670-4bbf-8587-b02b7c0fe111/modules/54d0cedc-dd84-4cfb-9a22-f665a062102c/lessons/f3191984-c26c-4927-9ec4-a55ffd40b9c5/concepts/e202df31-f5a7-4077-908b-117ce1a6b57d)<br>
-Big thanks to [joshxinjie](https://medium.com/datadriveninvestor/simple-machine-learning-techniques-to-improve-your-marketing-strategy-demystifying-uplift-models-dc4fb3f927a2) Lee a great write-up on Uplift Models, that help me greatly understand what needs to be done.
+Big thanks to [joshxinjie](https://medium.com/datadriveninvestor/simple-machine-learning-techniques-to-improve-your-marketing-strategy-demystifying-uplift-models-dc4fb3f927a2) a great write-up on Uplift Models, that help me greatly understand what needs to be done.
 
 **u1up0ng 2020/09/26**
